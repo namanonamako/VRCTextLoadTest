@@ -1,1 +1,1 @@
-{"name": "John", "settings": {"color": "red"}}
+{"contents": [{"name": "John", "settings": {"color": "blue"}}, {"name": "Alice", "settings": {"color": "green"}}]}
