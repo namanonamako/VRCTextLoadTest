@@ -1,1 +1,1 @@
-test
+repository(owner: "testacc01", name: "testrepo01") {     object(expression: "master:test.txt") {       ... on Blob {         oid       }     }
