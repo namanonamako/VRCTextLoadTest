@@ -1,1 +1,1 @@
-{"contents":[{"name":"John","settings":{"color":"こげちゃマン"}},{"name":"Alice","settings":{"color":"green"}},{"name":"Jony","settings":{"color":"blue"}}]}
+{"contents":[{"name":"John","settings":{"envVolume":0.5}},{"name":"Alice","settings":{"envVolume":0.3}},{"name":"Jony","settings":{"envVolume":0}}]}
