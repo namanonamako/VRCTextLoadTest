@@ -1,1 +1,1 @@
-{"contents":[{"name":"[1] Local Player","settings":{"envVolume":0}},{"name":"[2] Local Player","settings":{"envVolume":0.07552106}}]}
+{"contents":[{"name":"[1] Local Player","settings":{"envVolume":0,"videoVolume":0.794,"BloomIntensity":1,"BloomThreshold":0.66,"BloomClampToggle":false,"BloomClamp":1,"CGMode":0,"CGContrast":1,"CGSaturation":0,"CGExposure":2}},{"name":"[2] Local Player","settings":{"envVolume":0.07552106}}]}
