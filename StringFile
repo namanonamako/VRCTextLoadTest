@@ -1,1 +1,1 @@
-{"contents":[{"name":"John","settings":{"envVolume":0.5}},{"name":"Alice","settings":{"envVolume":0.3}},{"name":"Jony","settings":{"envVolume":0}},{"name":"[1] Local Player","settings":{"envVolume":0.07552106}}]}
+{"contents":[{"name":"John","settings":{"envVolume":0.5}},{"name":"Alice","settings":{"envVolume":0.3}},{"name":"Jony","settings":{"envVolume":0}},{"name":"[1] Local Player","settings":{"envVolume":0.07552106,"videoVolume":0.794,"BloomIntensity":0.5,"BloomThreshold":0.66,"BloomClampToggle":false,"BloomClamp":1,"CGContrast":1,"CGSaturation":1,"CGExposure":1}}]}
