@@ -14,7 +14,13 @@
 				"CGSaturation": 0,
 				"CGExposure": 1
 			}
-		}
+		},
+		{
+			"name": "[2] Local Player",
+			"settings": {
+				"envVolume": 0.07552106
+			}
+		},
 		{
 			"name": "namanonamako",
 			"settings": {
@@ -56,6 +62,36 @@
 				"BloomClamp": 1,
 				"CGMode": 0,
 				"CGContrast": 1.035291,
+				"CGSaturation": 1,
+				"CGExposure": 1
+			}
+		},
+		{
+			"name": "Ã¦ÂÂ Ã¥Â²Â©Ã£ÂÂ¬Ã£ÂÂÃ£ÂÂÃ£ÂÂ«",
+			"settings": {
+				"envVolume": 1,
+				"videoVolume": 0.5,
+				"BloomIntensity": 0.5,
+				"BloomThreshold": 0.66,
+				"BloomClampToggle": false,
+				"BloomClamp": 1,
+				"CGMode": 0,
+				"CGContrast": 1,
+				"CGSaturation": 1,
+				"CGExposure": 1
+			}
+		},
+		{
+			"name": "æ å²©ã¬ããã«",
+			"settings": {
+				"envVolume": 1,
+				"videoVolume": 0.5,
+				"BloomIntensity": 0.5,
+				"BloomThreshold": 0.66,
+				"BloomClampToggle": false,
+				"BloomClamp": 1,
+				"CGMode": 0,
+				"CGContrast": 1,
 				"CGSaturation": 1,
 				"CGExposure": 1
 			}
